@@ -1,0 +1,21 @@
+:root {
+    --bs-border-color: red !important;
+}
+.container {
+    color: white;
+}
+
+.container .simple-form {
+    text-align: center;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+}
+
+/* Tag CSS */
+body {
+    background-color: #282A35 !important;
+    color: white !important;
+}
